@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "622711354623",
+    "firebase_url": "https://spike-exercise-d19f5.firebaseio.com",
+    "project_id": "spike-exercise-d19f5",
+    "storage_bucket": "spike-exercise-d19f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622711354623:android:0247d1e8303738690e48ca",
+        "android_client_info": {
+          "package_name": "com.kirath.spike_exercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622711354623-p0jr5ea9sjtngpleq4ao97e3d27q8por.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSH7fxWVlUmHWwy4RO3vaLMfuUVa102AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622711354623-p0jr5ea9sjtngpleq4ao97e3d27q8por.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
